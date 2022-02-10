@@ -1,10 +1,13 @@
-# Date: 29 July 2021 23:43:15 (UTC)
+# Date: 10 February 2022 02:30:12 (UTC)
 127.0.0.1 ads.dragonfru.it
 127.0.0.1 ads.perfectaudience.com
 127.0.0.1 adservice.google.com
+127.0.0.1 advertising-api-eu.amazon.com
+127.0.0.1 affiliationjs.s3.amazonaws.com
 127.0.0.1 amoeba.web.roku.com
 127.0.0.1 analytics.kidoz.net
 127.0.0.1 analytics.query.yahoo.com
+127.0.0.1 analyticsengine.s3.amazonaws.com
 127.0.0.1 android.bugly.qq.com
 127.0.0.1 anonymousfox.cc
 127.0.0.1 anonymousfox.com
@@ -16,11 +19,11 @@
 127.0.0.1 anonymousfox.pw
 127.0.0.1 anonymousfox.to
 127.0.0.1 anonymousfox.xyz
-127.0.0.1 app-analytics.snapchat.com
 127.0.0.1 app.adjust.com
+127.0.0.1 app-analytics.snapchat.com
 127.0.0.1 assets.sr.roku.com
-127.0.0.1 clientmetrics-augmentum.kik.com
 127.0.0.1 clientmetrics.kik.com
+127.0.0.1 clientmetrics-augmentum.kik.com
 127.0.0.1 cloudservices.roku.com
 127.0.0.1 config.unityads.unity3d.com
 127.0.0.1 d2wy8f7a9ursnm.cloudfront.net
@@ -43,7 +46,8 @@
 127.0.0.1 td-exacttarget.mashery.com
 127.0.0.1 use-application-dns.net
 127.0.0.1 utorrent.inspsearch.com
-127.0.0.1 wildcard-exacttargetapis-com-j-1759071567.us-west-1.elb.amazonaws.com
+127.0.0.1 widgets.pinterest.com
 127.0.0.1 wildcard.moatads.com.edgekey.net
+127.0.0.1 wildcard-exacttargetapis-com-j-1759071567.us-west-1.elb.amazonaws.com
 127.0.0.1 wwwimg.roku.com
 127.0.0.1 zrk.imgur.com
