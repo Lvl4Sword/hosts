@@ -1,4 +1,4 @@
-# Date: 30 May 2022 15:23:00 (UTC)
+# Date: 07 November 2022 13:30:00 (UTC)
 127.0.0.1 ads.dragonfru.it
 127.0.0.1 ads.perfectaudience.com
 127.0.0.1 adservice.google.com
@@ -19,17 +19,22 @@
 127.0.0.1 anonymousfox.pw
 127.0.0.1 anonymousfox.to
 127.0.0.1 anonymousfox.xyz
+127.0.0.1 api.gateway.kik-live.com
 127.0.0.1 api.onesignal.com
 127.0.0.1 app.adjust.com
 127.0.0.1 app-analytics.snapchat.com
+127.0.0.1 apps.media-lab.ai
+127.0.0.1 auth.gateway.kik-live.com
 127.0.0.1 assets.sr.roku.com
 127.0.0.1 clientmetrics.kik.com
 127.0.0.1 clientmetrics-augmentum.kik.com
 127.0.0.1 cloudservices.roku.com
 127.0.0.1 config.unityads.unity3d.com
 127.0.0.1 d2wy8f7a9ursnm.cloudfront.net
+127.0.0.1 data.media-lab.ai
 127.0.0.1 device-metrics-us.amazon.com
 127.0.0.1 exacttarget.api.mashery.com
+127.0.0.1 firebaselogging-pa.googleapis.com
 127.0.0.1 hexagon-analytics.com
 127.0.0.1 incoming.telemetry.mozilla.org
 127.0.0.1 mads.amazon-adsystem.com
