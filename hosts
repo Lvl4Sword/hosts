@@ -1,4 +1,4 @@
-# Date: 24 January 2023 00:07:31 (UTC)
+# Date: 24 February 2023 04:17:13 (UTC)
 127.0.0.1 ads.dragonfru.it
 127.0.0.1 ads.perfectaudience.com
 127.0.0.1 adservice.google.com
@@ -39,6 +39,7 @@
 127.0.0.1 incoming.telemetry.mozilla.org
 127.0.0.1 mads.amazon-adsystem.com
 127.0.0.1 metric.kleientertainment.com
+127.0.0.1 onion.autos
 127.0.0.1 pixel.redditmedia.com
 127.0.0.1 pph.smileandgo.de
 127.0.0.1 prod.mobile.roku.com
